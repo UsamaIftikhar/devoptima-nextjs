@@ -25,8 +25,8 @@ const TestimonialsSection = () => {
               <strong>innovation</strong> and less on operational challenges. Their <strong>cloud
               management solutions</strong> are top-notch.
             </p>
-            <div className="flex mt-6 mb-20 ml-14 pl-10">
-              <img className="pl-10" src="/images/avatar1.svg"></img>
+            <div className="flex mt-6 mb-20 ml-14 pl-6">
+              <img className="pl-8" src="/images/avatar1.svg"></img>
               <div className="ml-4">
                 <p>John Smith</p>
                 <p className="text-gray-400">IT Director at Reflex</p>
